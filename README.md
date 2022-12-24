@@ -8,7 +8,7 @@ A Game made for educational purpose.
 </div>
 
 <p align="center">
-  <img src="Preview/gif/previewPet.gif" />
+  <img src="Preview/gif/previewPet.gif"/>
 </p>
 
 ## 🤔 Getting Started
