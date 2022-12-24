@@ -28,7 +28,7 @@ Make sure you have the requirements before starting:
 
 ## ⬇️ Download
 
-[:sparkles: Download Source Code](https://github.com/raxelf/WildWestern-Duel-Game-Prototype/archive/refs/heads/main.zip)
+[:sparkles: Download Source Code](https://github.com/raxelf/Idle-RPG-Slime-Adventure/archive/refs/heads/main.zip)
 
 ## 📹 Previews
 
