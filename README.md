@@ -31,6 +31,7 @@ Make sure you have the requirements before starting:
 [:sparkles: Download Source Code](https://github.com/raxelf/WildWestern-Duel-Game-Prototype/archive/refs/heads/main.zip)
 
 ## 📹 Previews
+
 <div id="previews">
    <h3>
       Adventure Mode
@@ -57,3 +58,8 @@ Make sure you have the requirements before starting:
    </h3>
   <img src="Preview/previewFoodDesc.gif"/>
 </div>
+
+## 🧑‍💻 Teams
+
+- @ [YosuaEvan](https://github.com/yosuaevan/)
+- @ [raxelf](https://github.com/raxelf/)
