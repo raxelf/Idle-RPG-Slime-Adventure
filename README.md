@@ -31,11 +31,29 @@ Make sure you have the requirements before starting:
 [:sparkles: Download Source Code](https://github.com/raxelf/WildWestern-Duel-Game-Prototype/archive/refs/heads/main.zip)
 
 ## 📹 Previews
-<div id="previews" align="center">
-  <img src="Preview/previewAdventure.gif" width="40%" height="50%"/>
-  <img src="Preview/previewEndless.gif" width="40%" height="50%"/>
-  <img src="Preview/previewWorldBoss.gif" width="40%" height="50%"/>
-  <img src="Preview/previewEvolve.gif" width="40%" height="50%"/>
-  <img src="Preview/previewGacha.gif" width="40%" height="50%"/>
-  <img src="Preview/previewFoodDesc.gif" width="40%" height="50%"/>
+<div id="previews">
+   <h3>
+      Adventure Mode
+   </h3>
+   <img src="Preview/previewAdventure.gif"/>
+   <h3>
+      Endless Mode
+   </h3>
+  <img src="Preview/previewEndless.gif"/>
+  <h3>
+      World Boss Fight
+   </h3>
+  <img src="Preview/previewWorldBoss.gif"/>
+  <h3>
+      Evolve
+   </h3>
+  <img src="Preview/previewEvolve.gif"/>
+  <h3>
+      Gacha
+   </h3>
+  <img src="Preview/previewGacha.gif"/>
+   <h3>
+      Food Description
+   </h3>
+  <img src="Preview/previewFoodDesc.gif"/>
 </div>
