@@ -4,7 +4,7 @@
   </h1>
   <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="MadeWithUnity Badge"/>
   
-A Game made for educational purpose.
+An idle RPG game built with Unity where players take the role of a slime, battling enemies, gaining experience, and upgrading stats through automated progression.
 </div>
 
 <p align="center">
